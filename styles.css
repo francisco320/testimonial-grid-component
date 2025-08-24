@@ -140,5 +140,6 @@ blockquote {
       "daniel daniel jonathan kira"
       "harmon patrick patrick kira";
     grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(2, auto);
   }
 }
